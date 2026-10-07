@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+Sitemap: https://foufawfou-ui.github.io/tokna/sitemap.xml
